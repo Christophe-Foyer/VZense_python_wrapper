@@ -1,3 +1,5 @@
+# CF - TODO: Do we trust that it's pulling from a random repo on gitee?
+
 import sys
 import subprocess
 import os
